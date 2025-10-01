@@ -1,6 +1,7 @@
 Projeto para uma cafeteria fictícia, com foco em apresentar os produtos, contar a história da marca e facilitar o contato com os clientes. Desenvolvido com HTML e CSS puro.
 🎯 Objetivo
 Criar uma interface visual atrativa para um café moderno, com seções bem definidas e navegação fluida. O projeto pode ser usado como base para sites de cafeterias, pequenos comércios ou estudo de front-end.
+
 🖼️ Demonstração
 ![image](https://github.com/user-attachments/assets/eb47ef1b-c90f-4fc7-813d-0dbf6daa6d93)
 ![image](https://github.com/user-attachments/assets/e2a8120b-8ac1-4087-8958-9a8b3301d22d)
