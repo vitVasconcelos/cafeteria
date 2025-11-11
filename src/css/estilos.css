@@ -1,5 +1,5 @@
 :root{
-    --main-color:#d3ad7f;
+   
     --black: #13131a;
     --bg: #010103;
     --border: 0.1rem solid rgba(255,255,255,0.3);
@@ -46,8 +46,8 @@ section{
     color:#fff;
 }
 .navbar a:hover{
-    color: var(--main-color);
-    border-bottom: 0.1rem solid var(--main-color);
+    color: rgb(205, 113, 113);
+    border-bottom: 0.1rem solid rgb(205, 113, 113);
     padding-bottom: 0.5rem;
     font-size: 2rem;
 }
@@ -72,7 +72,7 @@ section{
     letter-spacing: 0.1rem;
 }
 .home-container{
-    background: url("/src/imagens/home-img.jpg");
+    background: url("../imagens/home-img.jpg");
     background-size: contain;
     background-size: cover;
     background-position: center;
