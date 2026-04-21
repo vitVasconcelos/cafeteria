@@ -1,0 +1,160 @@
+@media (max-width: 991px){
+
+    html{
+        font-size: 55%;
+    }
+
+    section{
+        padding: 3rem 2rem;
+    }
+
+    .header section{
+        padding: 1.5rem 2rem;
+    }
+
+    .content h3{
+        font-size: 4rem;
+    }
+
+    .titulo{
+        font-size: 4rem;
+    }
+
+    .sobre .row{
+        flex-direction: column;
+    }
+
+    .sobre .row img{
+        width: 100%;
+    }
+    #close {
+        position: absolute;
+        right: 10px;
+        top: 5px;
+        cursor: pointer;
+        font-size: 25px;
+      }
+
+    .cart-content{
+        width: 80%;
+        top: 50%;
+        max-width: 400px;
+        text-align: center;
+      
+    }
+
+}
+
+@media (max-width: 768px){
+
+    html{
+        font-size: 50%;
+    }
+
+    
+    .header section{
+        flex-wrap: wrap;
+        gap: 1rem;
+    }
+
+    .navbar{
+        width: 100%;
+        text-align: center;
+    }
+    .logo{
+      margin: 0 auto;
+    }
+
+    .navbar a{
+        margin: 1rem 15px;
+        font-size: 2rem;
+    }
+
+    .icons{
+        margin: auto;
+    }
+
+   
+    .home-container section{
+        margin-top: 3rem;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .content{
+        max-width: 100%;
+    }
+
+    .content h3{
+        font-size: 3.5rem;
+    }
+
+    .content p{
+        font-size: 1.6rem;
+    }
+
+ 
+    .box-container{
+        grid-template-columns: 1fr;
+    }
+
+
+    .endereco iframe{
+        width: 100%;
+        height: 300px;
+    }
+    .cart-content{
+        width: 80%;
+        top: 50%;
+        max-width: 350px;
+        right: 10%;
+        text-align: center;
+    }
+    #close {
+        position: absolute;
+        right: 10px;
+        top: 5px;
+        cursor: pointer;
+        font-size: 25px;
+      }
+}
+
+@media (max-width: 450px){
+
+    html{
+        font-size: 45%;
+    }
+    .home-container section{
+        margin-top: 6rem;
+      
+    }
+    .content h3{
+        font-size: 3rem;
+    }
+    
+
+    .titulo{
+        font-size: 3rem;
+    }
+
+    .btn{
+        width: 100%;
+        text-align: center;
+        padding: 1.2rem;
+    }
+
+    .menu .box-container .box{
+        padding: 3rem 2rem;
+    }
+
+    .cart-content{
+        padding: 15px;
+        width: 80%;
+        right: 5%;
+        top: 50%;
+        position: absolute;
+        text-align: center;
+    }
+   
+
+}
