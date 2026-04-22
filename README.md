@@ -5,65 +5,56 @@ A proposta do site é apresentar a marca, destacar produtos do menu, exibir aval
 
 📷Prévia
 
-**Tela Inicial**
+# Tela Inicial
 
 <img width="1345" height="641" alt="image" src="https://github.com/user-attachments/assets/50363da2-5dba-4260-926e-091bb67c0b29" />
 
 
-**Seção sobre**
+# Seção sobre
 
 <img width="1347" height="643" alt="image" src="https://github.com/user-attachments/assets/ceabc9ae-157f-450d-8972-f73aecac2963" />
 
-**Menu**
+# Menu
 
 <img width="1349" height="643" alt="image" src="https://github.com/user-attachments/assets/19b758fc-733c-4a2d-b274-c4b767aba8b1" />
 
-<img width="1345" height="649" alt="image" src="https://github.com/user-attachments/assets/361ec9e8-bf62-4f76-8151-ccd83e40fc88" />
-
-**Adição de itens ao carrinho**
+# Adição de itens ao carrinho
 
 <img width="1347" height="649" alt="image" src="https://github.com/user-attachments/assets/6c0cd868-2442-4c68-a601-554f9369bcd8" />
 
-**Carrinho de compras**
+# Carrinho de compras
 
 <img width="1353" height="643" alt="image" src="https://github.com/user-attachments/assets/852d50d9-e0e7-45e4-bf3c-a0cbd684c681" />
 
-**Excluindo item do carrinho**
+# Excluindo item do carrinho
 
 <img width="1345" height="645" alt="image" src="https://github.com/user-attachments/assets/df6a2dd7-f45c-4a18-9151-fe15ad56d61b" />
 
-**Finalizando pedido**
+# Finalizando pedido
 
 <img width="1351" height="649" alt="image" src="https://github.com/user-attachments/assets/078b849c-7024-4e07-8224-1f1cc605e996" />
 
 
-**Seção de avaliações**
+# Seção de avaliações
 
 <img width="1345" height="641" alt="image" src="https://github.com/user-attachments/assets/c65323f7-895c-4071-a97a-1074dab6723b" />
 
-**Endereço**
+# Endereço
 
 <img width="1349" height="643" alt="image" src="https://github.com/user-attachments/assets/59a376d5-6070-49a8-ac49-a4216ffa9e48" />
 
 
-**Redes sociais**
+# Redes sociais
 
 <img width="1345" height="639" alt="image" src="https://github.com/user-attachments/assets/ec6fa519-8c00-4595-b828-f1fee6278df3" />
 
-**Responsividade**
+# Responsividade
 
 <img width="315" height="553" alt="image" src="https://github.com/user-attachments/assets/cee2396d-8916-4c78-9978-a1b45bfa5657" />
 
 <img width="311" height="555" alt="image" src="https://github.com/user-attachments/assets/5c9a88fc-b15a-43fc-8f80-6f5baf392326" />
 
 <img width="495" height="551" alt="image" src="https://github.com/user-attachments/assets/76dbc729-b8ea-44d4-8cc4-1cb7289c74cb" />
-
-
-
-
-
-
-
 
 
 
