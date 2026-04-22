@@ -30,6 +30,40 @@ A proposta do site é apresentar a marca, destacar produtos do menu, exibir aval
 
 **Excluindo item do carrinho**
 
+<img width="1345" height="645" alt="image" src="https://github.com/user-attachments/assets/df6a2dd7-f45c-4a18-9151-fe15ad56d61b" />
+
+**Finalizando pedido**
+
+<img width="1351" height="649" alt="image" src="https://github.com/user-attachments/assets/078b849c-7024-4e07-8224-1f1cc605e996" />
+
+
+**Seção de avaliações**
+
+<img width="1345" height="641" alt="image" src="https://github.com/user-attachments/assets/c65323f7-895c-4071-a97a-1074dab6723b" />
+
+**Endereço**
+
+<img width="1349" height="643" alt="image" src="https://github.com/user-attachments/assets/59a376d5-6070-49a8-ac49-a4216ffa9e48" />
+
+
+**Redes sociais**
+
+<img width="1345" height="639" alt="image" src="https://github.com/user-attachments/assets/ec6fa519-8c00-4595-b828-f1fee6278df3" />
+
+**Responsividade**
+
+<img width="315" height="553" alt="image" src="https://github.com/user-attachments/assets/cee2396d-8916-4c78-9978-a1b45bfa5657" />
+
+<img width="311" height="555" alt="image" src="https://github.com/user-attachments/assets/5c9a88fc-b15a-43fc-8f80-6f5baf392326" />
+
+<img width="495" height="551" alt="image" src="https://github.com/user-attachments/assets/76dbc729-b8ea-44d4-8cc4-1cb7289c74cb" />
+
+
+
+
+
+
+
 
 
 
