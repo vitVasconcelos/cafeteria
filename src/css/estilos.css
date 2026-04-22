@@ -73,6 +73,7 @@ section{
 span{
     color:#fff;
 }
+
 .home-container{
     background: url("../imagens/home-img.jpg");
     background-size: contain;
@@ -215,7 +216,7 @@ span{
 .cart {
     display: none;
     position: fixed;
-    top: 0;
+    top: 20px;
     left: 0;
     width: 100%;
     height: 100%;
@@ -255,3 +256,35 @@ span{
     color: var(--main-color);
     border-bottom: 3px solid var(--main-color);
   }
+  .cart-items{
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    text-align: center;
+    margin-left: 1rem;
+}
+.cart-items li{
+    font-size: 14px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.cart-total{
+    font-size: 14px;
+    font-weight: bold;
+    margin: 10px;
+}
+.confirm-btn{
+    padding: 10px 15px;
+    background-color: var(--black);
+    color: #fff;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.delete-btn{
+    padding: 3px 7px;
+    background-color: var(--main-color);
+    color: #fff;   
+    border-radius: 4px;
+    cursor: pointer;
+}
