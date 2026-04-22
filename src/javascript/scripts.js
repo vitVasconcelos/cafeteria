@@ -8,8 +8,8 @@ const cartFooter = document.querySelector(".cart-footer");
 const cartTotal = document.querySelector(".cart-total");
 const emptyCartImg = document.querySelector("#empty-cart");
 const emptyCartMsg = document.querySelector(".cart p");
-
-const confirmBtn = document.querySelector(".confirm-btn")
+const confirmBtn = document.querySelector(".confirm-btn");
+const cartBadge = document.querySelector("#cart-badge");
 
 openCart.addEventListener("click", () => {
   cart.style.display = "block";
@@ -56,6 +56,13 @@ closeCart.addEventListener("click", () => {
 function atualizarCarrinho() {
   cartItemsContainer.innerHTML = "";
   let total = 0;
+
+  if (carrinho.length > 0) {
+    cartBadge.style.display = "flex";
+    cartBadge.textContent = carrinho.length;
+  } else {
+    cartBadge.style.display = "none";
+  }
 
   if (carrinho.length === 0) {
     emptyCartImg.style.display = "block";
