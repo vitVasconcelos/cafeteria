@@ -7,48 +7,72 @@ A proposta do site é apresentar a marca, destacar produtos do menu, exibir aval
 
 # Tela Inicial
 
+**Na tela inicial é possível visualisar o menu de naveção, um pouco sobre a empresa e um botão que direciona o usuário diretamente para a seção do 
+menu da Cafeteria. O menu de navegação fica fixo no topo da tela, e direciona diretamente prara a seção escolhida. O botão do WhatsApp fica fixo no canto inferior direito e direciona o usuário para uma conversa com o número da empresa**
+
 <img width="1345" height="641" alt="image" src="https://github.com/user-attachments/assets/50363da2-5dba-4260-926e-091bb67c0b29" />
 
 
 # Seção sobre
 
+**Na seção sobre é possível conhecer mais sobre a empresa**
+
 <img width="1347" height="643" alt="image" src="https://github.com/user-attachments/assets/ceabc9ae-157f-450d-8972-f73aecac2963" />
 
 # Menu
+
+**No menu podemos observar os produtos diponíveis no menu da Cafeteria, com destaque aos preços promocionais. Cada item também possui um botão
+que adiciona o item ao carrinho**
 
 <img width="1349" height="643" alt="image" src="https://github.com/user-attachments/assets/19b758fc-733c-4a2d-b274-c4b767aba8b1" />
 
 # Adição de itens ao carrinho
 
+**Quando um item é adicionado ao carrinho, aparece um indicador que exibe a quantidade de itens no carrinho**
+
 <img width="1347" height="649" alt="image" src="https://github.com/user-attachments/assets/6c0cd868-2442-4c68-a601-554f9369bcd8" />
 
 # Carrinho de compras
+
+**Aqui é possível observar os itens adicionados ao carrinho, cada um com a opção de excluir, o carrinho também exibe o o valor total, e possui um botão para concluir o pedido**
 
 <img width="1353" height="643" alt="image" src="https://github.com/user-attachments/assets/852d50d9-e0e7-45e4-bf3c-a0cbd684c681" />
 
 # Excluindo item do carrinho
 
+**Ao excluir um item do carrinho, ele é removido da lista e o valor é atualizado**
+
 <img width="1345" height="645" alt="image" src="https://github.com/user-attachments/assets/df6a2dd7-f45c-4a18-9151-fe15ad56d61b" />
 
 # Finalizando pedido
+
+**Ao finalizar o pedido, é exibida uma mensagem e o carrinho é esvaziado** 
 
 <img width="1351" height="649" alt="image" src="https://github.com/user-attachments/assets/078b849c-7024-4e07-8224-1f1cc605e996" />
 
 
 # Seção de avaliações
 
+**Na seção de avaliações é possível ver algumas avaliações feitas por clientes, mostrando nome, foto, comentário e avaliação**
+
 <img width="1345" height="641" alt="image" src="https://github.com/user-attachments/assets/c65323f7-895c-4071-a97a-1074dab6723b" />
 
 # Endereço
+
+**É exibido um mapa com a localização da cafeteria**
 
 <img width="1349" height="643" alt="image" src="https://github.com/user-attachments/assets/59a376d5-6070-49a8-ac49-a4216ffa9e48" />
 
 
 # Redes sociais
 
+**No final da página é possível acessar as principais redes sociais da Cafeteria**
+
 <img width="1345" height="639" alt="image" src="https://github.com/user-attachments/assets/ec6fa519-8c00-4595-b828-f1fee6278df3" />
 
 # Responsividade
+
+**O site foi adaptado para telas menores**
 
 <img width="315" height="553" alt="image" src="https://github.com/user-attachments/assets/cee2396d-8916-4c78-9978-a1b45bfa5657" />
 
@@ -156,11 +180,5 @@ Durante o desenvolvimento deste projeto, foram praticados conceitos importantes 
 * Organização de arquivos
 * Estruturação de landing pages reais
 
----
-
-## 👩‍💻 Autora
-
-Desenvolvido por **Vitória Vasconcelos** 💜
-Projeto criado para estudos, prática e portfólio profissional.
 
 ---
